@@ -144,7 +144,7 @@ Exported CSV with ZIPs sorted by opportunity metric.
 
 ## 👤 Author
 
-**Sreeja Penke** — Data Analyst | January 2026
+**Shreya Sharma** — Data Analyst | January 2026
 
 ---
 
