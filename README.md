@@ -140,14 +140,3 @@ Exported CSV with ZIPs sorted by opportunity metric.
 2. **Public Stations Only**: Private/residential stations excluded — analyzing public infrastructure gaps
 3. **Washington Focus**: High EV adoption market, representative of national trends
 
----
-
-## 👤 Author
-
-**Shreya Sharma** — Data Analyst | January 2026
-
----
-
-## 📄 License
-
-Internal use for infrastructure planning purposes.
